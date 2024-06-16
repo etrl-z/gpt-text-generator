@@ -16,4 +16,4 @@ def write_file(file_path, content_to_append):
     # Open the file in append mode ('a')
     with open(file_path, 'a') as file:
         # Write content to the file
-        file.write(content_to_append + "\n")
+        file.write(content_to_append)

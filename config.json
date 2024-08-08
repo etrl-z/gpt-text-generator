@@ -1,5 +1,5 @@
 {
-    "file_path": "C:\\Users\\emili\\Desktop\\AI Prompt\\test2318.txt",
+    "file_path": "./result/test_new.txt",
     "prompt_text": "Maybe we'll find a way. Or maybe we won't. Whatever it is, we're here.",
     "force_prompt": false,
     "buffer": 100

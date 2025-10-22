@@ -6,6 +6,10 @@ def load_config(config_file):
         config = json.load(f)
     return config
 
+def create_file(file_path):
+    with open(file_path, 'w') as f:
+        f.write("")
+
 def read_file(file_path):
     with open(file_path, 'r') as file:
         # Read the entire file content into a string

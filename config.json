@@ -1,6 +1,5 @@
 {
-    "file_path": "./result/test_new.txt",
-    "prompt_text": "Maybe we'll find a way. Or maybe we won't. Whatever it is, we're here.",
-    "force_prompt": false,
+    "file_path": "./result/AiGeneratedText_002.txt",
+    "prompt_text": "Once Upon a time, in a galaxy far far away",
     "buffer": 100
 }
